@@ -1,7 +1,7 @@
 # SCRUG Assignment: Add something to Apple Repo
 # Created by: Nicole Charriere
 # Contact: nicole.charriere@noaa.gov
-# Created: 12/12/21
+# Created: 12/9/21
 # Modified:
 
 #interpretation of data from "Apples from sweet to tart" picture at https://www.freshpoint.com/news/produce-101-apples/
